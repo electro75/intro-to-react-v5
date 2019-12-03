@@ -1,3 +1,3 @@
 # Intro To React.
 
-_One of many attempts to learn react_
+_One of my many attempts to learn react_
